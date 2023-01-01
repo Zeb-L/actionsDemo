@@ -1,1 +1,1 @@
-m3u@=https://raw.iqiq.io/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/%E5%9B%BD%E5%86%85%E7%94%B5%E8%A7%86%E5%8F%B02022-11.m3u
+测试put内容
