@@ -1,9 +1,6 @@
 name: box_tvlist_actions
 on:
-  push:
-    branches: [ main ]
-  schedule:
-    - cron: '0 20 * * *'
+
 
 env:
   TZ: Asia/Shanghai
